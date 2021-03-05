@@ -1,0 +1,16 @@
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.exe
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.deps.json
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.runtimeconfig.json
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.runtimeconfig.dev.json
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.dll
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\ref\transferenciaBancaria.dll
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\bin\Debug\net5.0\transferenciaBancaria.pdb
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.csprojAssemblyReference.cache
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.AssemblyInfo.cs
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.dll
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\ref\transferenciaBancaria.dll
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.pdb
+C:\Users\evand\Documents\bootcamp localiza\transferenciaBancaria\obj\Debug\net5.0\transferenciaBancaria.genruntimeconfig.cache
